@@ -17,4 +17,4 @@ A HTTP service allow server push message to browsers. Based on websocket.
 
 ## Usage:
 1. Browser chat.
-2. Push message to broser from server.
+2. Push message to browser from server.
